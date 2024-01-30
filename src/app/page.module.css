@@ -1,0 +1,10 @@
+.home {
+    background: linear-gradient(238deg, #369646 34.54%, #1D1D3C 55.4%, #020204 100.99%, rgba(0, 0, 0, 0.00) 101%, #000 101%);;
+    width: 100vw;
+    height: 100vh;
+    background-color: #1E1E1E;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
