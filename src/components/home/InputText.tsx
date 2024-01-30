@@ -12,8 +12,6 @@ export default function InputText(){
 }
 
 const What = styled.div`
-
-
     input {
 
         width: 50rem;
